@@ -168,6 +168,10 @@ a {
     transition-timing-function: ease
 }
 
+b{
+    font-size: 16px;
+}
+
 a:focus,
 img:focus,
 button:focus,
