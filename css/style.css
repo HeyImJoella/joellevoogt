@@ -244,7 +244,7 @@ header[role="header"] nav ul>li {
 header[role="header"] nav ul>li>a {
     display: block;
     line-height: 72px;
-    color: #404040;
+    color: #103654;
 }
 
 header[role="header"] nav ul>li:hover a,
@@ -347,7 +347,7 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] header h2,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2 {
     font-size: 46px;
     line-height: 53px;
-    color: #2b2c30;
+    color: #103654;
     font-weight: 200;
 }
 
@@ -355,7 +355,7 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] header h2 span,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2 span {
     display: block;
     font-size: 80px;
-    color: #2b2c30;
+    color: #103654;
     padding-bottom: 15px;
 }
 
@@ -363,7 +363,7 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] p,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] p {
     font-size: 14px;
     line-height: 30px;
-    color: #2b2c30;
+    color: #103654;
 }
 
 footer[role="footer"] {
@@ -393,11 +393,11 @@ footer[role="footer"] nav>ul>li {
     display: inline-block;
     text-transform: uppercase;
     font-size: 15px;
-    margin: 0 13px
+    margin: 0 13px;
 }
 
 footer[role="footer"] nav>ul>li>a {
-    color: #9d9d9d
+    color: #9d9d9d;
 }
 
 footer[role="footer"] nav>ul>li:hover a {
@@ -442,7 +442,7 @@ footer[role="footer"] .copy-right {
 }
 
 main[role="main-inner-wrapper"] .about-content {
-    background-color: #070707;
+    background-color: #11334e;
     padding-top: 57px;
     padding-left: 70px;
     padding-right: 67px;
@@ -699,7 +699,7 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 
 .work-details header h2 {
-    color: #343434;
+    color: #103654;
     font-size: 36px;
     font-weight: 800;
 }
@@ -728,7 +728,7 @@ article[role="pge-title-content"].contact-header p a:hover {
 
 .work-details p {
     font-size: 16px;
-    color: #666;
+    color: #103654;
     line-height: 30px;
     margin-bottom: 20px;
     font-weight: 300;
