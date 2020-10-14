@@ -99,7 +99,7 @@
         font-size: 60px
     }
     main[role="main-home-wrapper"] article {
-        padding-bottom: 30px
+        padding-bottom: 10px
     }
     main[role="main-home-wrapper"] article p br {
         display: none

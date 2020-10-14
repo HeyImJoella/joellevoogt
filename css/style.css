@@ -402,7 +402,7 @@ footer[role="footer"] nav>ul>li>a {
 
 footer[role="footer"] nav>ul>li:hover a {
     text-decoration: none;
-    color: #070707;
+    color: #337ab7;
 }
 
 footer[role="footer"] ul[role="social-icons"] {
@@ -430,7 +430,7 @@ footer[role="footer"] ul[role="social-icons"]>li>a {
 }
 
 footer[role="footer"] ul[role="social-icons"]>li:hover a {
-    background-color: #070707;
+    background-color: #337ab7;
 }
 
 footer[role="footer"] .copy-right {
@@ -993,5 +993,5 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 
 .contact-img{
-    margin-left:100px;
+    margin-left:10px;
 }
