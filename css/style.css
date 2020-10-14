@@ -244,13 +244,13 @@ header[role="header"] nav ul>li {
 header[role="header"] nav ul>li>a {
     display: block;
     line-height: 72px;
-    color: #404040
+    color: #404040;
 }
 
 header[role="header"] nav ul>li:hover a,
 header[role="header"] nav ul>li.nav-active a {
     text-decoration: none;
-    color: #070707;
+    color: #337ab7;
 }
 
 header[role="header"] nav #menu-button {
@@ -587,7 +587,7 @@ article[role="pge-title-content"].contact-header p a {
 }
 
 article[role="pge-title-content"].contact-header p a:hover {
-    color: #070707;
+    color: #337ab7;
     text-decoration: none;
 }
 
@@ -676,21 +676,20 @@ article[role="pge-title-content"].contact-header p a:hover {
     display: block;
     border: none;
     outline: none;
-    border-radius: 400px;
     width: 200px;
     line-height: 60px;
     text-transform: uppercase;
     font-size: 21px;
-    color: #2b2c30;
+    color: #fff;
     font-weight: 400;
     letter-spacing: 2px;
-    background-color: rgba(255,205,0,1);
+    background-color: #337ab7;
     margin: 41px auto;
     margin-bottom: 0
 }
 
 .contat-from-wrapper input[type="submit"]:hover {
-    background-color: rgba(255,205,0,.6);
+    background-color: #2d6a9f ;
 }
 
 .work-details,
@@ -912,15 +911,31 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 
 .commentys-form input[type="button"]:hover {
-    background-color: #ff5c5c
+    background-color: #ff5c5c;
+}
+.mailto-button{
+    background:#337ab7;
+    padding:15px;
+    color:#fff;
+    padding-right: 60px;
+    padding-left: 60px;
+    font-size:16px;
+    border-radius: 50px;
+    font-weight: bold;
 }
 
-#single_categories_item {
-    margin: 0px 0px 0px 0px;
-    padding: 4px 22px;
-    background: rgba(255,205,0,.2);
-    border-radius: 5px;
+.mailto-button:hover{
+    background:#255783;
+    color:#fff;
+}
+
+#categories{
+    margin: 5px 5px 5px 0px;
+    padding: 1px 13px 1px 13px;
+    background: #337ab7;
+    border-radius: 50px;
     line-height: 36px;
-    text-align: center;
-    vertical-align: middle;
+    color:#fff;
+    display:inline-block;
+    font-size:13px;
 }
