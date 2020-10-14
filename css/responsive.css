@@ -56,7 +56,8 @@
         display: inline-block
     }
     .grid-lod li img {
-        width: 100%
+        width: 100%;
+        display:inline-block;
     }
     .work-details,
     .blog-details {

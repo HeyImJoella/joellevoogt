@@ -13,7 +13,7 @@
 .grid-lod li img {
     outline: none;
     border: none;
-    display: block;
+    display: inline-block;
     max-width: 100%
 }
 
