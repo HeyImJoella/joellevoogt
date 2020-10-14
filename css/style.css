@@ -567,7 +567,7 @@ section.blog-content article {
     line-height: 30px;
     color: #FFF;
     font-weight: 800;
-    color: #343434;
+    color: #103654;
     padding-left: 42px;
     padding-top: 33px;
     padding-bottom: 31px;
@@ -582,7 +582,7 @@ article[role="pge-title-content"].contact-header {
 }
 
 article[role="pge-title-content"].contact-header p a {
-    color: #343434;
+    color: #103654;
     padding-right: 34px
 }
 
