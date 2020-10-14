@@ -980,12 +980,18 @@ article[role="pge-title-content"].contact-header p a:hover {
     margin-right:10px;
     }
 
- .volgende{
+    .volgende{
     padding-right: 20px;
     padding-left: 20px;
     }
 }
 
-.contact-img{
+@media (max-width: 667px){
+    .contact-img{
+    margin-left:0px !important;
+    }
+}
 
+.contact-img{
+    margin-left:100px;
 }
