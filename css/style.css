@@ -340,7 +340,7 @@ main[role="main-inner-wrapper"] article[role="pge-title-content"] {
 main[role="main-home-wrapper"] article[role="pge-title-content"] header,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] header {
     padding-bottom: 19px;
-    padding-top: 83px;
+    padding-top: 23px;
 }
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] header h2,
@@ -578,7 +578,7 @@ section.blog-content:hover figure img {
 }
 
 article[role="pge-title-content"].contact-header {
-    padding-bottom: 218px
+    padding-bottom: 8px
 }
 
 article[role="pge-title-content"].contact-header p a {
@@ -676,26 +676,27 @@ article[role="pge-title-content"].contact-header p a:hover {
     display: block;
     border: none;
     outline: none;
+    border-radius: 400px;
     width: 200px;
     line-height: 60px;
     text-transform: uppercase;
     font-size: 21px;
-    color: #FFF;
-    font-weight: 800;
+    color: #2b2c30;
+    font-weight: 400;
     letter-spacing: 2px;
-    background-color: #e84d49;
+    background-color: rgba(255,205,0,1);
     margin: 41px auto;
     margin-bottom: 0
 }
 
 .contat-from-wrapper input[type="submit"]:hover {
-    background-color: #f8524e;
+    background-color: rgba(255,205,0,.6);
 }
 
 .work-details,
 .blog-details {
     padding: 0 69px;
-    margin-top: 73px
+    margin-top: 0px
 }
 
 .work-details header h2 {
@@ -912,4 +913,14 @@ article[role="pge-title-content"].contact-header p a:hover {
 
 .commentys-form input[type="button"]:hover {
     background-color: #ff5c5c
-}s
+}
+
+#single_categories_item {
+    margin: 0px 0px 0px 0px;
+    padding: 4px 22px;
+    background: rgba(255,205,0,.2);
+    border-radius: 5px;
+    line-height: 36px;
+    text-align: center;
+    vertical-align: middle;
+}
