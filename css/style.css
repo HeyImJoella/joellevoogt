@@ -133,7 +133,7 @@ nav,
 section,
 img,
 main {
-    display: block
+    display: block;
 }
 
 audio,
@@ -978,11 +978,14 @@ article[role="pge-title-content"].contact-header p a:hover {
     padding-right: 20px;
     padding-left: 20px;
     margin-right:10px;
-}
-
+    }
 
  .volgende{
     padding-right: 20px;
     padding-left: 20px;
-}
     }
+}
+
+.contact-img{
+
+}
