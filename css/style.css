@@ -915,7 +915,7 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 .mailto-button{
     background:#337ab7;
-    padding:15px;
+    padding:10px;
     color:#fff;
     padding-right: 60px;
     padding-left: 60px;
@@ -939,3 +939,50 @@ article[role="pge-title-content"].contact-header p a:hover {
     display:inline-block;
     font-size:13px;
 }
+
+.vorige{
+    background:#fff;
+    padding:10px;
+    color:#343434;
+    padding-right: 60px;
+    padding-left: 60px;
+    font-size:16px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-right:30px;
+}
+
+.vorige:hover{
+    background:#ebebeb;
+    color:#343434;
+}
+
+ .volgende{
+    background:#337ab7;
+    padding:10px;
+    color:#fff;
+    padding-right: 60px;
+    padding-left: 60px;
+    font-size:16px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+ .volgende:hover{
+    background:#255783;
+    color:#fff;
+}
+
+@media (max-width:767px) {
+    .vorige{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right:10px;
+}
+
+
+ .volgende{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+    }
