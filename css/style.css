@@ -452,10 +452,11 @@ main[role="main-inner-wrapper"] .about-content {
 }
 
 main[role="main-inner-wrapper"] .about-content p {
-    font-size: 12px;
-    line-height: 20px;
+    line-height: 25px;
     color: #FFF;
     padding-bottom: 20px;
+    font-size: 16px;
+    font-weight:300;
 }
 
 main[role="main-inner-wrapper"] .thumbnails-pan {
