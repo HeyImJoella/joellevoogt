@@ -1669,8 +1669,17 @@ pre code {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
 }
+
+.col-xs-20{
+    margin-bottom: 25px;
+}
+
+.col-xs-30{
+    margin-bottom: 30px;
+}
+
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,

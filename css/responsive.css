@@ -114,7 +114,7 @@
         padding: 5%
     }
     main[role="main-inner-wrapper"] .thumbnails-pan section figure {
-        margin-bottom: 20px
+        margin-bottom: 20px;
     }
     article[role="pge-title-content"].blog-header,
     article[role="pge-title-content"].contact-header {
