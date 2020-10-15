@@ -277,7 +277,7 @@ header[role="header"] nav #menu-button span {
     z-index: 60;
     height: 3px;
     width: 100%;
-    background: #111;
+    background: #103654;
     opacity: 1;
     left: 0;
     -webkit-transform: rotate(0deg);
@@ -291,7 +291,7 @@ header[role="header"] nav #menu-button span {
 }
 
 header[role="header"] nav #menu-button span {
-    background: #010101
+    background: #103654;
 }
 
 header[role="header"] nav #menu-button span:nth-child(1) {
