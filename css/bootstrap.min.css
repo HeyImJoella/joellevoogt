@@ -5942,14 +5942,14 @@ button.list-group-item-danger.active:hover {
     font-size: 21px;
     font-weight: 700;
     line-height: 1;
-    color: #000;
+    color: #337ab7;
     text-shadow: 0 1px 0 #fff;
     filter: alpha(opacity=20);
     opacity: 0.2;
 }
 .close:focus,
 .close:hover {
-    color: #000;
+    color: #337ab7;
     text-decoration: none;
     cursor: pointer;
     filter: alpha(opacity=50);

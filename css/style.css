@@ -445,10 +445,10 @@ footer[role="footer"] .copy-right {
 
 main[role="main-inner-wrapper"] .about-content {
     background-color: #11334e;
-    padding-top: 57px;
-    padding-left: 70px;
-    padding-right: 67px;
-    padding-bottom: 58px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
 }
 
 main[role="main-inner-wrapper"] .about-content p {
@@ -470,7 +470,7 @@ main[role="main-inner-wrapper"] .thumbnails-pan section figure {
     cursor: pointer
 }
 
-main[role="main-inner-wrapper"] .thumbnails-pan section figure,
+/*main[role="main-inner-wrapper"] .thumbnails-pan section figure,
 main[role="main-inner-wrapper"] .thumbnails-pan section figure,
 img,
 main[role="main-inner-wrapper"] .thumbnails-pan section figure figcaption,
@@ -481,7 +481,7 @@ section.blog-content article {
     transition-duration: 0.6s;
     transition-property: all;
     transition-timing-function: ease
-}
+}*/
 
 main[role="main-inner-wrapper"] .thumbnails-pan section figure figcaption {
     position: absolute;
