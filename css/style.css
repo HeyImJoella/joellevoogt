@@ -361,9 +361,11 @@ main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2 span
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] p,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 30px;
     color: #103654;
+    font-weight:300;
+    line-height: 30px;
 }
 
 footer[role="footer"] {
