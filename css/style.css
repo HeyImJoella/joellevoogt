@@ -192,7 +192,7 @@ button:focus,
 }
 
 @font-face {
-    font-family: 'Open Sans', sans-serif
+    font-family: 'Open Sans', sans-serif;
 }
 
 header[role="header"] {
