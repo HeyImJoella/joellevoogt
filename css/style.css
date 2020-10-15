@@ -470,7 +470,7 @@ main[role="main-inner-wrapper"] .thumbnails-pan section figure {
     cursor: pointer
 }
 
-/*main[role="main-inner-wrapper"] .thumbnails-pan section figure,
+main[role="main-inner-wrapper"] .thumbnails-pan section figure,
 main[role="main-inner-wrapper"] .thumbnails-pan section figure,
 img,
 main[role="main-inner-wrapper"] .thumbnails-pan section figure figcaption,
@@ -481,7 +481,7 @@ section.blog-content article {
     transition-duration: 0.6s;
     transition-property: all;
     transition-timing-function: ease
-}*/
+}
 
 main[role="main-inner-wrapper"] .thumbnails-pan section figure figcaption {
     position: absolute;
