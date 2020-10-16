@@ -1,12 +1,12 @@
 .grid-lod li {
     display: block;
-    opacity: 0
+    opacity: 0;
 }
 
 .grid-lod li.shown,
 .no-js .grid-lod li,
 .no-cssanimations .grid-lod li {
-    opacity: 1
+    opacity: 1;
 }
 
 .grid-lod li a,
