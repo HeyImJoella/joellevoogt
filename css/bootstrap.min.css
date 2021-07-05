@@ -13,7 +13,7 @@
     margin: 0;
 }
 html {
-    font-family: sans-serif;
+    font-family: Nunito Sans, sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
@@ -63,7 +63,7 @@ abbr[title] {
 }
 b,
 strong {
-    font-weight: 700;
+    font-weight: 850;
 }
 dfn {
     font-style: italic;
@@ -1087,9 +1087,9 @@ html {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-    font-family: "Open Sans", sans-serif;
-    font-weight: 400;
-    font-size: 13px;
+    font-family: Sofia Pro, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
     line-height: 1.42857143;
     color: #103654;
     background-color: #f6f6f6;
