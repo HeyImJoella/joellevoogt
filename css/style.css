@@ -157,7 +157,7 @@ q:after {
 .clear {
     clear: both;
     line-height: 0;
-    height: 0
+    height: 0;
 }
 
 a {
@@ -167,7 +167,7 @@ a {
     transition-delay: 0s;
     transition-duration: 0.6s;
     transition-property: all;
-    transition-timing-function: ease
+    transition-timing-function: ease;
 }
 
 .bold{
@@ -178,23 +178,23 @@ a:focus,
 img:focus,
 button:focus,
 .btn:focus {
-    outline: none
+    outline: none;
 }
 
 ::-moz-selection {
-    background-color: #333231;
+    background-color: #353f7a;
     color: #fff;
-    text-shadow: none
+    text-shadow: none;
 }
 
 ::selection {
-    background-color: #333231;
+    background-color: #353f7a;
     color: #fff;
-    text-shadow: none
+    text-shadow: none;
 }
 
 @font-face {
-    font-family: Nunito Sans,  sans-serif;
+    font-family: Commissioner,  sans-serif;
 }
 
 header[role="header"] {
@@ -204,13 +204,13 @@ header[role="header"] {
 
 header[role="header"] h1 {
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 
 header[role="header"] h1>a {
     max-width: 66px;
     display: block;
-    float: left
+    float: left;
 }
 
 header[role="header"] nav {
@@ -218,7 +218,7 @@ header[role="header"] nav {
     transition-delay: 0s;
     transition-duration: 0.6s;
     transition-property: all;
-    transition-timing-function: ease
+    transition-timing-function: ease;
 }
 
 header[role="header"] nav ul {
@@ -234,13 +234,13 @@ header[role="header"] nav ul {
     background-color: rgba(255, 255, 255, .8);
     padding: 0;
     margin: 0;
-    padding-top: 199px
+    padding-top: 199px;
 }
 
 header[role="header"] nav ul>li {
     font-weight: 800;
     font-size: 42px;
-    display: block
+    display: block;
 }
 
 header[role="header"] nav ul>li>a {
@@ -349,23 +349,23 @@ main[role="main-home-wrapper"] article[role="pge-title-content"] header h2,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2 {
     font-size: 46px;
     line-height: 53px;
-    color: #103654;
+    color: #353f7a;
     font-weight: 200;
 }
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] header h2 span,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] header h2 span {
     display: block;
-    font-size: 80px;
-    color: #103654;
+    font-size: 75px;
+    color: #353f7a;
     padding-bottom: 15px;
 }
 
 main[role="main-home-wrapper"] article[role="pge-title-content"] p,
 main[role="main-inner-wrapper"] article[role="pge-title-content"] p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 30px;
-    color: #103654;
+    color: #353f7a;
     font-weight: 500;
     line-height: 30px;
 }
@@ -446,7 +446,7 @@ footer[role="footer"] .copy-right {
 }
 
 main[role="main-inner-wrapper"] .about-content {
-    background-color: #11334e;
+    background-color: #343f80;
     padding-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
@@ -454,15 +454,15 @@ main[role="main-inner-wrapper"] .about-content {
 }
 
 main[role="main-inner-wrapper"] .about-content p {
-    line-height: 25px;
+    line-height: 24px;
     color: #FFF;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 18px;
     font-weight:340;
 }
 
 main[role="main-inner-wrapper"] .thumbnails-pan {
-    padding-top: 30px;
+    padding-top: 60px;
 }
 
 main[role="main-inner-wrapper"] .thumbnails-pan section figure {
@@ -732,7 +732,7 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 
 .work-details p {
-    font-size: 16px;
+    font-size: 18px;
     color: #103654;
     line-height: 30px;
     margin-bottom: 20px;
@@ -937,17 +937,17 @@ article[role="pge-title-content"].contact-header p a:hover {
 #categories{
     margin: 5px 5px 5px 0px;
     padding: 1px 13px 1px 13px;
-    background: rgba(51, 122, 183, .2);
+    background: #e1e5fa;
     border-radius: 50px;
     line-height: 36px;
-    color:#103654;
+    color: #353f7a;
     display:inline-block;
-    font-size:13px;
+    font-size:14px;
 }
 
 .vorige{
     background:#fff;
-    padding:10px;
+    padding:15px 25px;
     color:#343434;
     padding-right: 60px;
     padding-left: 60px;
@@ -963,8 +963,8 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 
  .volgende{
-    background:#337ab7;
-    padding:10px;
+    background:#505daa;
+    padding:15px 25px;
     color:#fff;
     padding-right: 60px;
     padding-left: 60px;
@@ -974,7 +974,7 @@ article[role="pge-title-content"].contact-header p a:hover {
 }
 
  .volgende:hover{
-    background:#255783;
+    background: #353f7a;
     color:#fff;
 }
 
